@@ -1,0 +1,6 @@
+.git
+.idea
+.mvn
+data
+target
+*.iml
